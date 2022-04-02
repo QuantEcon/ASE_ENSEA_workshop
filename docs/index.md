@@ -75,9 +75,13 @@ had some exposure to probability, linear algebra and principles of economics,
 up to the level of a high-quality undergraduate economics or computer science
 program.  Programming experience will be helpful but is not a prerequisite.
 
-## Registration
+## Questionnaire
 
 Interested students should complete [the questionnaire](https://docs.google.com/forms/d/1lG6kDYzM58pt7lRJpY-1n5ZOn6JA3TYdWs5W_tgNgKY/edit?ts=624267e8).
+
+## Registration
+
+Information about how to register for this course will be provided soon.
 
 ## Contact
 
