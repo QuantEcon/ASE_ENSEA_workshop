@@ -77,7 +77,7 @@ program.  Programming experience will be helpful but is not a prerequisite.
 
 ## Questionnaire
 
-Interested students should complete [the questionnaire](https://docs.google.com/forms/d/1lG6kDYzM58pt7lRJpY-1n5ZOn6JA3TYdWs5W_tgNgKY/edit?ts=624267e8).
+Interested students should complete [the questionnaire](https://docs.google.com/forms/d/1lG6kDYzM58pt7lRJpY-1n5ZOn6JA3TYdWs5W_tgNgKY/).
 
 ## Registration
 
