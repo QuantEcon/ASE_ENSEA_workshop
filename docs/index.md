@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## QuantEcon Summer Workshop for ASE and ENSEA Students
 
 You can use the [editor on GitHub](https://github.com/QuantEcon/ASE_ENSEA_workshop/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
