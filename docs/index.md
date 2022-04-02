@@ -1,4 +1,8 @@
-# QuantEcon Summer Workshop for ASE and ENSEA Students
+# QuantEcon Summer Workshop 
+
+## QuantEcon Summer Workshop for ASE and ENSEA Students
+
+Foobar
 
 ## Markdown
 
