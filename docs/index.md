@@ -7,8 +7,7 @@ Statistics and Applied Economics](https://ensea.ed.ci/en/) (ENSEA).  The
 target audience for the course is talented young economists from ASE and ENSEA
 who want to learn about  data science and computer-driven economic
 modeling.  The course will provide students with an introduction and exposure
-to key tools in quantitative economics that are in high demand in
-the rapidly transforming economics job market.
+to key tools in quantitative economics that are in high demand in academic economics and industry.
 
 The lead instructor and academic coordinator for the program is [Thomas J.
 Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of Economics at New York
