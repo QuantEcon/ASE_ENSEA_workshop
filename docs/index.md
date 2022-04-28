@@ -9,6 +9,10 @@ who want to learn about  data science and computer-driven economic
 modeling.  The course will provide students with an introduction and exposure
 to key tools in quantitative economics that are in high demand in academic economics and industry.
 
+Classes will be Monday-Friday July 11-15 and Monday-Friday July 18-22.
+
+We have  10 classes,  each of 3 hours total length.
+
 The lead instructor and academic coordinator for the program is [Thomas J.
 Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of Economics at New York
 University, and 2011 Nobel Laureate in Economic Sciences.
