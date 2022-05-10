@@ -82,7 +82,9 @@ Interested students should complete [the questionnaire](https://docs.google.com/
 
 ## Registration
 
-Information about how to register for this course will be provided soon.
+[The questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSca-99V6CXcC6lRcqmC4G1wrw609srg19Df7485K5wOjeesOQ/viewform) will serve as the
+registration process, so please fill it in if you have not already. It will also
+provide us with valuable background information which will help tailor the course.
 
 ## Contact
 
