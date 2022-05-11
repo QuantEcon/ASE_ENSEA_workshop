@@ -82,7 +82,10 @@ Interested students should complete [the questionnaire](https://docs.google.com/
 
 ## Registration
 
-Information about how to register for this course will be provided soon.
+[The questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSca-99V6CXcC6lRcqmC4G1wrw609srg19Df7485K5wOjeesOQ/viewform) will serve as the
+registration process. Please fill in the form if you have not already done so.
+
+We will use the email address you have provided to give you more information about the course in June, 2022.
 
 ## Contact
 
