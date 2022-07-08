@@ -11,12 +11,31 @@ to key tools in quantitative economics that are in high demand in academic econo
 
 Classes will be Monday-Friday July 11-15 and Monday-Friday July 18-22.
 
-We have  10 classes,  each of 3 hours total length.
+We have 10 classes, each of 3 hours total length.
 
 The lead instructor and academic coordinator for the program is [Thomas J.
 Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of Economics at New York
 University, and 2011 Nobel Laureate in Economic Sciences.
 
+## How will the Workshops Work? 
+
+Due to the large number of enrolments, lectures will be pre-recorded rather than live.  We will also provide assignments and a discourse forum where you can ask questions and get answers from instructors and your peers.  New videos and assignments will be distributed through Google Classroom, starting from July 11th.
+
+The discourse forum will facilitate interaction between participants and with the teaching staff. 
+
+### Google Classroom
+
+You will need to sign up to the Google Classroom using [this invitation link](https://classroom.google.com/c/NDk1NzE1MzU0MDY1?cjc=mwa777q)
+
+This is where we will distribute materials for the workshop. 
+
+We also recommend using [Google Colab](https://colab.research.google.com) which is a cloud environment for running notebooks that contain lecture material and python code. All course content can be run locally on your own computer using the Anaconda python distribution, however if you choose to use the Google Colab service you will need to sign up with a Google Account. If your university uses Google Cloud you may use your University login. 
+
+### Discourse Forum for QuantEcon Workshops
+
+You can now sign up to the [Workshop Discourse Forum](https://quantecon-workshop.discourse.group/login)
+
+This will enable you to access a forum to ask questions and get answers from instructors and peers.
 
 ## Syllabus
 
