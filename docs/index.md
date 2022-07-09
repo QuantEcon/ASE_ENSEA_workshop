@@ -9,7 +9,7 @@ who want to learn about  data science and computer-driven economic
 modeling.  The course will provide students with an introduction and exposure
 to key tools in quantitative economics that are in high demand in academic economics and industry.
 
-Classes will be Monday-Friday July 11-15 and Monday-Friday July 18-22.
+The workshop will run Monday-Friday July 11-15 and Monday-Friday July 18-22.
 
 The lead instructor and academic coordinator for the program is [Thomas J.
 Sargent](http://www.tomsargent.com/), co-founder of QuantEcon, Professor of Economics at New York
@@ -40,8 +40,7 @@ This will enable you to access a forum to ask questions and get answers from ins
 The language of instruction will be English.  The programming language used in
 the course will be Python.
 
-The course will be run online as a series of 10 three-hour classes.  The
-course will cover  selected topics from 
+The course will cover selected topics from 
 
 * Foundations of programming in Python
 * Data engineering with Pandas
