@@ -3,7 +3,7 @@
 In July 2022, [QuantEcon](https://quantecon.org/)  will run an online Summer
 Course in Quantitative Economics, in partnership with the [African School of
 Economics](https://africanschoolofeconomics.com/) (ASE), and the [Institute of
-Statistics and Applied Economics](https://ensea.ed.ci/en/) (ENSEA).  The
+Statistics and Applied Economics](https://ensea.ed.ci/) (ENSEA).  The
 target audience for the course is talented young economists from ASE and ENSEA
 who want to learn about  data science and computer-driven economic
 modeling.  The course will provide students with an introduction and exposure
